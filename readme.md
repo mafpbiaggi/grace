@@ -1,8 +1,8 @@
 # A LinkStack Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+Find more themes: https://github.com/LinkStackOrg/
                                                                                                                                                                          
 *	Theme Name: Grace
-*	Theme Version: 1.2
+*	Theme Version: 1.3
 *	Theme Date: 2025-11-11
 *	Theme Author: Marco Aurélio Biaggi
 *	Theme Author URI: https://github.com/mafpbiaggi
