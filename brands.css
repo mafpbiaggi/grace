@@ -34,6 +34,12 @@
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+:root {
+  --bgColor: #194D20;
+  --accentColor: #FFF;
+  --delay: .3s;
+}
+
 .button {
   position: relative;
   background-color: transparent;
